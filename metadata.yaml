@@ -1,0 +1,36 @@
+_repo: The-Poetical-Works-of-James-Beattie_41760
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Dyce, Alexander
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '5689'
+    url: http://www.gutenberg.org/2009/agents/5689
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Dyce
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beattie, James
+    alias: Beatie, Dr.
+    birthdate: 1735
+    deathdate: 1803
+    gutenberg_agent_id: '32553'
+    url: http://www.gutenberg.org/2009/agents/32553
+    wikipedia: http://en.wikipedia.org/wiki/James_Beattie_(writer)
+description: ''
+gutenberg_issued: '2013-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: The Poetical Works of James Beattie
+url: http://www.gutenberg.org/ebooks/41760
